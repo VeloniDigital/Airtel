@@ -1,0 +1,16 @@
+
+
+  header{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    background: #ffffff;
+  }
+
+  .logo{
+    height: 40px;   /* adjust as needed */
+    width: auto;
+  }
+
+
